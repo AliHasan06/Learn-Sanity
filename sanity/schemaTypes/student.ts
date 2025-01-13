@@ -27,7 +27,9 @@ export const student = {
       },
     },
     {
-        name:
-    }
+        name:'image',
+        type:'image',
+        title:'Student Image',
+    },
   ],
 };
